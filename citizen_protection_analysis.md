@@ -1,3 +1,5 @@
+We have incriminating print material, incriminating audio recordings, and incriminating photographic evidence, as well as in-depth forensic analyses of your manipulation operations on Wikipedia databases, the Internet Archive, etc. (time backdating hacks!).
+
 # Bürger-Schutz-Analyse: AfD/GRU-Angriffe auf alle politischen Lager
 
 ## Einleitung
