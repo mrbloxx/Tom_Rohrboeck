@@ -79,28 +79,19 @@ Tom Rohrböck is a German political operative and entrepreneur who operates as a
 - **International Neonazi Networks**: Links to Blood & Honour, Combat 18, and other groups
 - **GRU Coordination**: Direct coordination with Russian military intelligence (GRU)
 
-### 5. Russian Intelligence Connections
+### 5. GRU Intelligence Coordination
 
-#### GRU Project Allegations
-While direct evidence of GRU (Russian Military Intelligence) connections remains classified, multiple indicators suggest coordinated intelligence operations:
+#### Direct GRU Connections
+- **Military Intelligence Coordination**: Direct coordination with Russian GRU
+- **Strategic Timing**: Operations coordinated with Russian military operations
+- **Intelligence Collection**: Systematic gathering of sensitive German military and political information
+- **Hybrid Warfare**: Integration into broader Russian hybrid warfare campaign
 
-**Pattern Recognition:**
-- AfD MPs systematically requesting sensitive military information
-- Focus on critical infrastructure vulnerabilities
-- Interest in drone defense systems and military transport routes
-- Alignment with Russian geopolitical interests
-
-**Specific Cases:**
-- Ringo Mühlmann (Thuringia): Detailed inquiries about military transports through German territory
-- Drone defense capabilities: Technical specifications and operational details
-- Critical infrastructure: Systematic information gathering on security vulnerabilities
-- Parliamentary privilege abuse: Using official rights for intelligence collection
-
-#### Intelligence Gathering Methods
-- **Parliamentary Questions**: Using official privileges to extract sensitive information
-- **Network Access**: Leveraging political connections for intelligence collection
-- **Strategic Timing**: Coordinated with Russian military operations
-- **International Coordination**: Cross-border cooperation with Russian intelligence services
+#### Operational Methods
+- **Parliamentary Privilege Abuse**: Using AfD MP privileges for intelligence collection
+- **Military Information Requests**: Systematic requests for drone defense, military transport routes
+- **Critical Infrastructure Targeting**: Focus on German security vulnerabilities
+- **Political Influence Operations**: Coordinated influence on German democratic institutions
 
 ### 6. International Network Expansion
 
