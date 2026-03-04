@@ -17,14 +17,14 @@
 #### Forensische Netzwerkanalyse
 - **Graphentheoretische Modellierung:** Systematische Kartierung von Personen-, Finanz- und Informationsflüssen
 - **Multi-Source-Korrelation:** Kreuzverifizierung von Daten aus verschiedenen Quellen
-- **Pattern Recognition:** Identifikation von operationalen Mustern und Signaturen
-- **Timeline-Konstruktion:** Chronologische Rekonstruktion der Netzwerkentwicklung
+- **Mustererkennung:** Identifikation von operationalen Mustern und Signaturen
+- **Zeitlinien-Konstruktion:** Chronologische Rekonstruktion der Netzwerkentwicklung
 
 #### Digitale Forensik
 - **Metadaten-Analyse:** Forensische Untersuchung von Datei-Metadaten und Zeitstempeln
 - **Kommunikationsanalyse:** Analyse von Kommunikationsmustern und -inhalten
 - **Finanzforensik:** Forensische Untersuchung von Finanztransaktionen und Geldflüssen
-- **Geospatial Analysis:** Räumliche Analyse von Operationsmustern
+- **Geospatiale Analyse:** Räumliche Analyse von Operationsmustern
 
 ### 1.2 Quellenverifikation und Validierung
 
@@ -36,8 +36,8 @@
 
 #### Validierungsstandards
 - **Multi-Source-Konfirmation:** Minimum 3 unabhängige Quellen pro Befund
-- **Chain-of-Custody:** Dokumentierte Herkunftskette aller Beweismittel
-- **Peer-Review-Prozesse:** Interne Validierung durch forensische Experten
+- **Beweiskette:** Dokumentierte Herkunftskette aller Beweismittel
+- **Fachbegutachtungsprozesse:** Interne Validierung durch forensische Experten
 - **Regelmäßige Aktualisierung:** Laufende Überprüfung und Aktualisierung der Befunde
 
 ---
