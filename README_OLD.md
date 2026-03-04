@@ -10,8 +10,6 @@
 
 Tom Rohrböck is a German political operative and entrepreneur who has been identified as a key figure in alleged Russian intelligence operations targeting German political institutions, particularly the far-right Alternative for Germany (AfD) party. Multiple investigative reports from reputable German media outlets have documented his extensive network and influence operations.
 
-**CRITICAL UPDATE (March 4, 2026):** Research has uncovered comprehensive evidence of a systematic Nazi network operating through Rohrböck's financial structures, with direct connections to NPD leadership and international neonazi organizations. The operation represents one of the most sophisticated political influence networks targeting German democratic institutions since the Cold War.
-
 ---
 
 ## Key Findings
@@ -36,7 +34,6 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 - **Method**: Used credit cards from shell companies (e.g., Sicura Soft GmbH)
 - **Target**: High-level AfD politicians including Alice Weidel
 - **Purpose**: Build influence through luxury accommodations and hospitality
-- **Evidence**: Hotel booking records and credit card statements
 
 #### Shell Company Network
 - **Structure**: Complex web of mailbox companies with dubious names
@@ -93,27 +90,11 @@ While direct evidence of GRU (Russian Military Intelligence) connections remains
 - Ringo Mühlmann (Thuringia): Detailed inquiries about military transports through German territory
 - Drone defense capabilities: Technical specifications and operational details
 - Critical infrastructure: Systematic information gathering on security vulnerabilities
-- Parliamentary privilege abuse: Using official rights for intelligence collection
 
 #### Intelligence Gathering Methods
 - **Parliamentary Questions**: Using official privileges to extract sensitive information
 - **Network Access**: Leveraging political connections for intelligence collection
 - **Strategic Timing**: Coordinated with Russian military operations
-- **International Coordination**: Cross-border cooperation with Russian intelligence services
-
-### 6. International Network Expansion
-
-#### European Operations
-- **Austrian Network**: Direct connections to FPÖ and BZÖ
-- **Swiss Financial Hub**: Zurich and Geneva private banking relationships
-- **Eastern European Links**: Polish, Hungarian, and Czech right-wing parties
-- **Global Reach**: Connections to US right-wing movements and think tanks
-
-#### Financial Networks
-- **Precious Metals**: Gold and commodities trading for asset protection
-- **Cryptocurrency**: Use of digital assets to avoid traditional banking controls
-- **Tax Havens**: International structures for financial obfuscation
-- **Shell Companies**: Complex corporate networks across multiple jurisdictions
 
 ---
 
@@ -124,26 +105,12 @@ While direct evidence of GRU (Russian Military Intelligence) connections remains
 2. **NDR/WDR**: "Das rechte Phantom" (Panorama die Reporter)
 3. **STRG_F**: YouTube documentary "Geheimes AfD-Netzwerk" (932K views)
 4. **Perspektive Online**: "Hinter der AfD steht das Kapital"
-5. **POLITICO**: European coverage of Russian influence operations
-6. **Militarnyi**: Military intelligence analysis
-7. **TAZ**: German political analysis
-8. **T-Online**: Digital media investigations
 
 ### Key Journalists
 - Christian Fuchs (DIE ZEIT)
 - Sebastian Pittelkow (NDR)
 - Katja Riedel (NDR)
 - Hannes Vogel (NDR)
-
-### Intelligence Background Sources
-- Wikipedia: Background information and network mapping
-- Congressional Research Service: US intelligence assessments
-- European intelligence agency reports
-
-### Social Media and Parliamentary Records
-- Twitter/X analysis of political communications
-- Parliamentary inquiry records and voting patterns
-- Corporate registry filings and financial disclosures
 
 ---
 
@@ -249,28 +216,7 @@ This repository contains research compiled from publicly available sources. All 
 This is a living research document. Contributions should be:
 - Sourced from verifiable public information
 - Properly attributed to original sources
-- Relevant to core research questions
+- Relevant to the core research questions
 - Documented with appropriate evidence
 
 **Research Integrity:** All information undergoes verification before inclusion.
-
----
-
-## Repository Structure
-
-- **README.md**: Executive summary and overview
-- **sources.md**: Complete source documentation
-- **timeline.md**: Chronological operational history
-- **network_analysis.md**: Detailed network mapping
-- **legal_assessments.md**: Legal implications analysis
-- **research_methodology.md**: Research methods and verification
-- **expanded_findings.md**: Enhanced corporate network analysis
-- **international_connections.md**: Global operations mapping
-- **intelligence_assessments.md**: Security agency evaluations
-- **additional_politicians.md**: 60+ identified network members
-- **legal_proceedings.md**: Comprehensive court documentation
-- **nazi_network.md**: Complete neo-Nazi network documentation
-- **russische_einflussoperation.md**: Russian influence operation analysis
-- **personenbeweise.md**: Evidence of personal contacts
-- **foreign_research_repositories.md**: International research landscape
-- **international_evidence_collection.md**: Global evidence compilation
