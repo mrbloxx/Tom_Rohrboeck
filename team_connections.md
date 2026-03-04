@@ -39,6 +39,7 @@ Umfassende Untersuchung hat eine **direkte Verbindung** zwischen Tom Rohrböck u
 - **Digitale Gesicht:** Deutschsprachige "Anti-Greta" Kampagnen
 - **Social-Media-Operation:** TikTok, YouTube, Twitter/X Präsenz
 - **Jugend-Targeting:** Gezielte Ansprache junger Menschen
+- **Informationsquelle:** Wichtige Providerin für Netzwerk-Informationen
 
 **Nachweisliche Verbindungen:**
 - **Finanzierung durch HDF:** Direkte Unterstützung für "Race Science" Projekte
@@ -49,6 +50,7 @@ Umfassende Untersuchung hat eine **direkte Verbindung** zwischen Tom Rohrböck u
 - **Corona Info Show:** Gemeinsame Auftritte mit Erik Ahrens
 - **"Anti-Greta" Kampagne:** Von Conru-Geldern finanzierte Desinformationskampagne
 - **YouTube-Kanal:** Über 86.700 Abonnenten (Stand 2020)
+- **Informationsbereitstellung:** Aktive Rolle als Informationsquelle für Netzwerk-Operationen
 
 #### Erik Ahrens (Andrew Y) (Netzwerk-Stratege)
 **Rolle im Team:**
