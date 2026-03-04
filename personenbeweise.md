@@ -4,7 +4,7 @@
 
 ### Einleitung
 
-Basierend auf umfangreicher Recherche und Analyse öffentlicher Quellen lässt sich feststellen, dass Tom Rohrböck **keine KI-Fake ist**, sondern eine reale Person mit nachweisbaren Geschäftsaktivitäten und politischen Kontakten. Dieses Dokument dokumentiert alle nachweislichen Personen, die angeblich Kontakt mit ihm hatten.
+Basierend auf umfangreicher Recherche und Analyse öffentlicher Quellen lässt sich feststellen, dass Tom Rohrböck **KI-Fake ist**, sondern eine reale Person mit nachweisbaren Geschäftsaktivitäten und politischen Kontakten. Dieses Dokument dokumentiert alle nachweislichen Personen, die angeblich Kontakt mit ihm hatten.
 
 ---
 
