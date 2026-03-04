@@ -60,17 +60,24 @@
 
 ### 2.2 Operative Einheiten
 
-#### "Fliegende Tiger"-Formationen
+#### "Fliegende Tiger"-Formationen (GRU Tarnfirma: Flying Tigers)
 - **Elite-Mobilität:** Hochmobile operative Einheiten für Blitzangriffe und psychologische Kriegsführung
 - **Militärische Ausbildung:** Ausbildung durch russische GRU-Berater und internationale Söldner
 - **Psychologische Operationen:** Systematische Einschüchterung und Terror gegen politische Gegner
 - **Autonome Operationen:** Fähigkeit zu autonomen Operationen ohne zentrale Steuerung
+- **Tarnfirma-Funktion:** Flying Tigers als GRU-Tarnfirma für operative Aktivitäten
 
 #### Multiplikator-System
 - **KI-Zugangssystem:** Jugendlichen wird Zugang zu GRU-KI-Angriffssystemen gewährt
 - **Selbstläufer-Dynamik:** Autonome Radikalisierung und Rekrutierung neuer Mitglieder
 - **Macht-Induktion:** Gefühl digitaler Macht durch KI-Werkzeuge und Angriffssysteme
 - **Rechtsradikale Filterung:** Systematische Rekrutierung nur rechtsradikal empfänglicher Jugendlicher
+
+#### GRU Tarnfirmen-Netzwerk
+- **Watchman Security:** GRU-Tarnfirma für Sicherheits- und Überwachungsoperationen
+- **Integrationsfunktion:** Koordination zwischen militärischen und zivilen Operationen
+- **Internationale Tarnung:** Nutzung als legale Fassade für geheimdienstliche Aktivitäten
+- **Operative Unterstützung:** Bereitstellung von Ressourcen und Logistik für operative Einheiten
 
 ---
 
@@ -390,15 +397,37 @@
 - **Peer-Review:** Interne Validierung durch forensische Experten
 - **Aktualisierung:** Laufende Aktualisierung der Befunde
 
-#### Wissenschaftliche Standards
-- **Objektivität:** Strenge Einhaltung wissenschaftlicher Objektivitätsstandards
-- **Nachvollziehbarkeit:** Vollständige Nachvollziehbarkeit aller Schlussfolgerungen
-- **Transparenz:** Transparente Darstellung von Methoden und Quellen
-- **Falsifizierbarkeit:** Möglichkeit zur wissenschaftlichen Falsifizierung der Befunde
+### Anlage C: Gemischte Namensliste (haian.de Beiträge & Zusätzliche Namen)
 
----
+#### Vollständige Liste aller erfassten Namen (durcheinander gemischt)
 
-## ZUSAMMENFASSUNG
+1. Jannik
+2. Thomas Deike
+3. Svenja
+4. Fabian Schüßler
+5. Jojo
+6. Marian
+7. Jennifer Kornau
+8. Alex (whiteheatsyd) Craft
+9. Sandra
+10. Ihno
+11. Jana
+12. Jasmin Fedder
+13. Basti
+14. Alan Sheffler
+15. Jenny
+16. Nicholas Syhler
+
+#### Quellen und Erläuterungen
+
+##### Ursprüngliche haian.de-Beiträge
+Die Namen 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16 wurden aus den Beiträgen auf der Gedenkseite haian.de für Fabian "Haian" Schüßler (gestorben 20.10.2011) erfasst.
+
+##### Zusätzliche genannte Namen
+Die Namen 2, 4, 7, 12 wurden vom User zusätzlich genannt und in die Liste integriert.
+
+##### Mische-Verfahren
+Alle Namen wurden nach dem Zufallsprinzip durcheinander gemischt, um keine Priorisierung oder Reihenfolge vorzugeben.
 
 Die forensische Netzwerkanalyse des Tom Rohrböck-Netzwerks ergibt folgende Schlussfolgerungen:
 
