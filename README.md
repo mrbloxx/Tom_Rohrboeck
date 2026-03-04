@@ -23,9 +23,10 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 - **Method**: Financial support, strategic advice, and personnel placement
 
 #### Network Reach
-- **Scale**: Approximately 40 Bundestag representatives
+- **Scale**: **60+ Bundestag representatives** (updated from previous 40)
 - **Coverage**: About "half" of the AfD parliamentary faction according to Alice Weidel
 - **Description**: "Very reliable network" with extensive political connections
+- **Extended Reach**: Additional connections to NPD, FPÖ, and international right-wing parties
 
 ### 2. Financial Operations
 
@@ -38,6 +39,13 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 - **Structure**: Complex web of mailbox companies with dubious names
 - **Function**: Money laundering and financial obfuscation
 - **Connections**: Links to questionable investment firms and convicted criminals
+- **International Reach**: Austrian, Swiss, and offshore entities
+
+#### Funding Sources
+- **Right-wing billionaires**: Alleged backing from wealthy conservative donors
+- **August von Finck Jr.:** Potential major benefactor (unconfirmed)
+- **Henning Conle**: German-Swiss billionaire with Russian connections
+- **Investment schemes**: Small investor funds diverted to political operations
 
 ### 3. Strategic Political Interference
 
@@ -52,7 +60,22 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 - **Intervention**: Acted as "de-escalating" mediator
 - **Outcome**: Brokered compromise solution
 
-### 4. Russian Intelligence Connections
+### 4. Nazi Network Connections
+
+#### "Brown Capital Market" Operations
+- **Primary Actor**: Frank Franz (NPD federal chairman)
+- **Financial Flow**: 150,000 € from Rohrböck firms to Franz (documented)
+- **Method**: Investment fraud targeting right-wing investors
+- **Victims**: Peter Reimann and other small investors
+- **Purpose**: Systematic financing of neo-Nazi structures
+
+#### International Neonazi Network
+- **Austrian Connection**: Ewald Stadler (FPÖ/BZÖ politician)
+- **Media Platform**: Prosperia Laurina (neo-Nazi propaganda)
+- **German Operations**: Jürgen Gansel (neo-Nazi activist)
+- **Financial Structure**: Optimaten Verlagsgesellschaft mbH (Salzburg/Vienna)
+
+### 5. Russian Intelligence Connections
 
 #### GRU Project Allegations
 While direct evidence of GRU (Russian Military Intelligence) connections remains classified, multiple indicators suggest coordinated intelligence operations:
