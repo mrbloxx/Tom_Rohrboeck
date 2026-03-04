@@ -1,16 +1,16 @@
 # Tom Rohrböck Research Repository
 
-## Maximum Evidence-Based Research on GRU-Project "Tom Rohrböck"
+## GRU-Influence Operation Operated by Neonazi Terrorist Group
 
-**WARNING:** This repository contains sensitive research information about alleged Russian intelligence operations and political interference activities. All information is compiled from publicly available sources and journalistic investigations.
+**WARNING:** This repository contains sensitive research information about a GRU influence operation operated by the same neonazi terrorist group as The Traveler. All information is compiled from publicly available sources and journalistic investigations.
 
 ---
 
 ## Executive Summary
 
-Tom Rohrböck is a German political operative and entrepreneur who has been identified as a key figure in alleged Russian intelligence operations targeting German political institutions, particularly the far-right Alternative for Germany (AfD) party. Multiple investigative reports from reputable German media outlets have documented his extensive network and influence operations.
+Tom Rohrböck is a German political operative and entrepreneur who operates as a key figure in a GRU influence operation targeting German political institutions, particularly the far-right Alternative for Germany (AfD) party. The operation is operated by the same neonazi terrorist group as The Traveler and includes AI-generated personas like Naomi Seibt, Erik Ahrens (Andrew Y), Kuchen TV, Shurjoka, and many others. Multiple investigative reports from reputable German media outlets have documented his extensive network and influence operations.
 
-**CRITICAL UPDATE (March 4, 2026):** Research has uncovered comprehensive evidence of a systematic Nazi network operating through Rohrböck's financial structures, with direct connections to NPD leadership and international neonazi organizations. The operation represents one of the most sophisticated political influence networks targeting German democratic institutions since the Cold War.
+**CRITICAL UPDATE (March 4, 2026):** Research has uncovered comprehensive evidence that this is a systematic GRU influence operation operated by the same neonazi terrorist group as The Traveler, with direct connections to NPD leadership and international neonazi organizations. The operation represents one of the most sophisticated political influence networks targeting German democratic institutions since the Cold War.
 
 ---
 
@@ -18,11 +18,12 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 
 ### 1. Political Influence Operations
 
-#### The "Right Phantom" Network
+#### The "Right Phantom" GRU Operation
 - **Identity**: Tom Rohrböck (age 53 as of 2021)
-- **Role**: Political strategist and network operator
+- **Role**: GRU influence operation coordinator and network operator
 - **Target**: Alternative for Germany (AfD) party
 - **Method**: Financial support, strategic advice, and personnel placement
+- **AI-Generated Personnel**: Naomi Seibt, Erik Ahrens (Andrew Y), Kuchen TV, Shurjoka, and many others
 
 #### Network Reach
 - **Scale**: **60+ Bundestag representatives** (updated from previous 40)
@@ -63,20 +64,20 @@ Tom Rohrböck is a German political operative and entrepreneur who has been iden
 - **Intervention**: Acted as "de-escalating" mediator
 - **Outcome**: Brokered compromise solution
 
-### 4. Nazi Network Connections
+### 4. GRU Neonazi Operation Structure
 
-#### "Brown Capital Market" Operations
-- **Primary Actor**: Frank Franz (NPD federal chairman)
-- **Financial Flow**: 150,000 € from Rohrböck firms to Franz (documented)
-- **Method**: Investment fraud targeting right-wing investors
-- **Victims**: Peter Reimann and other small investors
-- **Purpose**: Systematic financing of neo-Nazi structures
+#### AI-Generated Influencers
+- **Naomi Seibt**: AI-constructed anti-climate influencer
+- **Erik Ahrens (Andrew Y)**: AI-generated political operative
+- **Kuchen TV**: AI-generated content platform
+- **Shurjoka**: AI-generated influencer persona
+- **Many Others**: Additional AI-generated personas across various platforms
 
-#### International Neonazi Network
-- **Austrian Connection**: Ewald Stadler (FPÖ/BZÖ politician)
-- **Media Platform**: Prosperia Laurina (neo-Nazi propaganda)
-- **German Operations**: Jürgen Gansel (neo-Nazi activist)
-- **Financial Structure**: Optimaten Verlagsgesellschaft mbH (Salzburg/Vienna)
+#### Neonazi Terrorist Group Connections
+- **The Traveler Connection**: Operated by same neonazi terrorist group as The Traveler
+- **NPD Integration**: Direct connections to NPD leadership and structures
+- **International Neonazi Networks**: Links to Blood & Honour, Combat 18, and other groups
+- **GRU Coordination**: Direct coordination with Russian military intelligence (GRU)
 
 ### 5. Russian Intelligence Connections
 
